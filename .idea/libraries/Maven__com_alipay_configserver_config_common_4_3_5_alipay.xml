@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alipay.configserver:config-common:4.3.5.alipay">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/configserver/config-common/4.3.5.alipay/config-common-4.3.5.alipay.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/configserver/config-common/4.3.5.alipay/config-common-4.3.5.alipay-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/configserver/config-common/4.3.5.alipay/config-common-4.3.5.alipay-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
